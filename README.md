@@ -21,7 +21,7 @@ activator run
 ```
 ```
 [info] Loading project definition from /Users/philihp/work/MYPROJECT
-[info] Set current project to MYPROJECT (in build file:/Users/phil_busby/work/MYPROJECT/)
+[info] Set current project to play-java-react-seed (in build file:/Users/philihp/work/MYPROJECT/)
 
 --- (Running the application, auto-reloading is enabled) ---
 
