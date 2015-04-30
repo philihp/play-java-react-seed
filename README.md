@@ -16,4 +16,4 @@ That's all. Seriously. Now there's a project all ready for you. You can test run
 ```cd MYPROJECT
 activator run```
 
-and visit [http://localhost:9000](http://localhost:9000). You can see `/app/assets/javascripts/component.jsx` being rendered server-side by going to [http://localhost/assets/javascripts/component.js](http://localhost/assets/javascripts/component.js)
+and visit [http://localhost:9000](http://localhost:9000). You can see `/app/assets/javascripts/component.jsx` being rendered server-side by going to [http://localhost:9000/assets/javascripts/component.js](http://localhost:9000/assets/javascripts/component.js)
