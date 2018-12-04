@@ -1,3 +1,9 @@
+# Please do not use me, I probably don't work anymore. Instead, check out this seed, which is currently under active development:
+
+https://github.com/yohangz/java-play-react-seed
+
+------------------
+
 # Boilerplate Play and Reactive seed
 
 ![CircleCI Build](https://circleci.com/gh/philihp/play-java-react-seed.png?circle-token=:circle-token)
